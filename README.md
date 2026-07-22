@@ -11,35 +11,18 @@
 
 </div>
 
-## 💻 About Me
+## 👋 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class HariRajan:
-    def __init__(self):
-        self.name = "Hari Rajan N"
-        self.location = "Pondicherry, India"
-        self.degree = "B.E/B.Tech - Computer Science (2023-2027)"
-        self.stack = {
-            "languages": ["Python", "Dart", "JavaScript", "C", "PHP"],
-            "mobile": ["Flutter"],
-            "web": ["HTML", "CSS", "JavaScript"],
-            "database": ["MySQL"],
-            "networking": ["IPv4/IPv6", "DNS", "DHCP"]
-        }
-        self.currently_learning = [
-            "Advanced Flutter", "System Design", "Networking (CCNA)"
-        ]
-        self.fun_fact = "100-day Duolingo streak learning Japanese 🇯🇵"
+I'm **Hari Rajan N**, a Computer Science student (2023–2027) at Ifet College of Engineering, based in **Pondicherry, India**.
 
-    def motto(self):
-        return "Write clean code, debug relentlessly, ship responsibly."
+I work mainly with **Python** and **Flutter/Dart**, building cross-platform mobile apps, and I'm comfortable across the stack — from frontend (**HTML, CSS, JavaScript**) to backend and databases (**PHP, MySQL**). I also have a foundation in networking (IPv4/IPv6, DNS, DHCP — CCNA certified).
 
-
-me = HariRajan()
-print(me.motto())
-```
+- 🔭 Currently exploring **Advanced Flutter**, **System Design**, and **Networking**
+- 🌱 Always sharpening my problem-solving and debugging skills
+- 🏆 Winner at multiple coding & debugging competitions, and a 24-hour hackathon participant
+- 🎌 Fun fact: on a **100-day Duolingo streak** learning Japanese
 
 <br clear="right"/>
 
